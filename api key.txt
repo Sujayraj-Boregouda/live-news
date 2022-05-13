@@ -1,0 +1,5 @@
+6e17c976a5a94ebd9d9e4223ac467a1d
+
+
+get request
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=6e17c976a5a94ebd9d9e4223ac467a1d
